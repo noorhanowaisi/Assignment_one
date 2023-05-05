@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assig1</string>
+    <string-array name="spinnerOne">
+        <item>تقسم إلى</item>
+        <item>الدهون والزيوت</item>
+        <item>النشويات والسكريات</item>
+    </string-array>
+</resources>
